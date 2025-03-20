@@ -1,0 +1,11 @@
+{
+    "calendar": "Calendar",
+    "settings": "Settings",
+    "events": "Events",
+    "loading-error": "Loading error",
+    "not-found": "Not found",
+    "no-event": "No events",
+    "language": "Language",
+    "theme": "Theme",
+    "select-date": "Select date"
+}
