@@ -40,7 +40,7 @@ Implements repositories and data sources.
 ## How to Run
 ### Clone the repository:
 
-git clone https://github.com/your-username/calendar_app.git
+git clone https://github.com/tosyak/calendar_app
 
 ### Install dependencies:
 
